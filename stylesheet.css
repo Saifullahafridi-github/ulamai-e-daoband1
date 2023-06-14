@@ -1,0 +1,58 @@
+h1 {
+    font-size: 30px;
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 10px solid seagreen;
+    padding: 20px;
+  background-color: lightcyan;
+}
+
+p {
+    color: red;
+    font-size: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 40px; background-color: antiquewhite;
+}
+
+.saif {
+    color: blue;
+    font: size 50px;
+    ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 4px solid dodgerblue;
+    padding: 20px;
+    margin: 30px;
+    background-color: springgreen;
+}
+
+body {
+    background-color: rgba(200, 200, 200, 1);background-image: url('download2.jfif');
+}
+
+.nanotvi {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: black;
+    border: 3px solid;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+a {
+    border: 4px solid red;
+    padding: 10px 100px;
+    margin: 30px;
+    background-color: floralwhite; 
+
+
+}
+
+a:hover {
+    color: aquamarine;
+    background-color: blue;
+}
+
+p:active {
+    color: black;
+    text-decoration: underline;
+}
